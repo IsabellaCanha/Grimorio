@@ -1,0 +1,22 @@
+@charset "utf-8";
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+header{
+    background-image: linear-gradient(to bottom, rgb(142, 51, 142), rgb(173, 113, 173));
+    min-height: 50px;
+    text-align: center;
+    padding: 20px;
+    color: rgb(42, 42, 61);
+}
+header>nav{
+    text-align: left;
+   padding-right: 70px;
+   margin: 10px;
+}
+header>nav>a{
+    text-decoration: none;
+}
