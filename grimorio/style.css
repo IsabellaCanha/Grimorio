@@ -3,8 +3,16 @@
     margin: 0px;
     padding: 0px;
 }
+:root{
+    --cor0: #a3bc3e;
+    --cor1: #b7c879;
+    --cor2: #c8cea2;
+    --cor3: #dadfc4;
+    --cor04: #e4a997;
 
 
+
+}
 header{
    
     min-height: 50px;
